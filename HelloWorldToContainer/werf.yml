@@ -1,0 +1,5 @@
+﻿project: my-project
+configVersion: 1
+---
+image: example
+dockerfile: Dockerfile
